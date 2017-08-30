@@ -1,0 +1,2722 @@
+{
+    "1014": {
+        "name": "TOYOTA COASTER MINI-VAN [WS1014] молдинг лобового стекла",
+        "year": "1993- "
+    },
+    "2027": {
+        "name": "ALFA 164 4D SED",
+        "year": "1988-1998"
+    },
+    "2028": {
+        "name": "ALFA 33 5D HB, унив.",
+        "year": "1990-1995"
+    },
+    "2031": {
+        "name": "ALFA 145 3D HB/146 5D HB [пятак + шелк.]",
+        "year": "1994-2000"
+    },
+    "2034": {
+        "name": "ALFA 156 4D SED [пятак + шелк.]",
+        "year": "1997- "
+    },
+    "2036": {
+        "name": "ALFA 166 4D SED",
+        "year": "1998- "
+    },
+    "2037": {
+        "name": "ALFA 147 3/5 D HB",
+        "year": "2000- "
+    },
+    "2170": {
+        "name": "LADA PRIORA 2170 4D SED",
+        "year": "2005- "
+    },
+    "2172": {
+        "name": "LADA PRIORA 2172 5D HB",
+        "year": "2005- "
+    },
+    "2420": {
+        "name": "BMW 5 E12, E28 4D SED [WS0680] рез.молд.лоб.стекла",
+        "year": "1972-1978"
+    },
+    "2422": {
+        "name": "BMW 7 E23 4D SED",
+        "year": "1977-1986"
+    },
+    "2425": {
+        "name": "BMW 3 E30 (2D), 4D SED, купе, унив.",
+        "year": "1983-1988"
+    },
+    "2426": {
+        "name": "BMW 5 E34 4D SED [пятак + шелк.]",
+        "year": "1988-1995"
+    },
+    "2427": {
+        "name": "BMW 7 E32 4D SED [пятак + шелк.]",
+        "year": "1986-1994"
+    },
+    "2430": {
+        "name": "BMW 8 E31/850 купе [пятак+шелк.]",
+        "year": "1989-1999"
+    },
+    "2431": {
+        "name": "BMW 3 E36 3D Compact, 4D SED, унив. [пятак+шелк.+окно под VIN]",
+        "year": "1994-2001"
+    },
+    "2432": {
+        "name": "BMW 3 E36 купе [с ант.+ шелк. под СтС]",
+        "year": "1991-1994"
+    },
+    "2433": {
+        "name": "BMW 7 E38 4D SED [обогр.+ДД]",
+        "year": "1994-1998"
+    },
+    "2434": {
+        "name": "BMW 5 E39 4D SED [отдель. шелк. под пятак и ДД ,VIN]",
+        "year": "1995-1999"
+    },
+    "2435": {
+        "name": "BMW Z3 ROADSTER купе, CABRIO [пятак+шелк.+окно под VIN]",
+        "year": "1996-2002"
+    },
+    "2436": {
+        "name": "BMW 3 E46 4D SED,TOURING (унив.) [пятак+VIN+место подДД]",
+        "year": "1998-2001"
+    },
+    "2437": {
+        "name": "BMW 3 E46 купе/CABRIO (ДД)",
+        "year": "2001-2006"
+    },
+    "2439": {
+        "name": "BMW X5 (с 10.01) [отв. под VIN+ДД/ДС]",
+        "year": "2002-2006"
+    },
+    "2440": {
+        "name": "BMW MINI COOPER [ДД+обогрев]",
+        "year": "2000-2004"
+    },
+    "2442": {
+        "name": "BMW 3 E46 Compact",
+        "year": "2001- "
+    },
+    "2443": {
+        "name": "BMW 7 NEW E65 (745i, 745iA) [solar+обогр.+VIN+ДД, ДС]",
+        "year": "2001-2003"
+    },
+    "2445": {
+        "name": "BMW 5 (E60) 4D SED/унив. [ДД+ДС+VIN]",
+        "year": "2003-2007"
+    },
+    "2447": {
+        "name": "BMW 3 4D SED (E90), 5D EST(E91) (унив) [ДД]",
+        "year": "2005- "
+    },
+    "2448": {
+        "name": "BMW 1 SERIES 3/5D HB [ДД+VIN]",
+        "year": "2007- "
+    },
+    "2449": {
+        "name": "BMW X3 5D (ДД)",
+        "year": "2003- "
+    },
+    "2452": {
+        "name": "BMW X5 (E70)",
+        "year": "2006- "
+    },
+    "2454": {
+        "name": "BMW 3 E92 купе (ДД)",
+        "year": "2006- "
+    },
+    "2455": {
+        "name": "BMW MINI / MINI CLUBMAN (VIN)",
+        "year": "2007- "
+    },
+    "2456": {
+        "name": "BMW X6 [ДД]",
+        "year": "2008- "
+    },
+    "27-4": {
+        "name": "ГАЗ 2705, 3302 ГАЗЕЛЬ, СОБОЛЬ, БАРГУЗИН фара правая",
+        "year": "1990- "
+    },
+    "27-P": {
+        "name": "MITSUBISHI L-200 противотуманная фара правая",
+        "year": "2006- "
+    },
+    "2718": {
+        "name": "CITROEN XM 5D HB, унив. [пятак + шелк.]",
+        "year": "1989-1994"
+    },
+    "2720": {
+        "name": "CITROEN XANTIA 5D HB, унив. [пятак + шелк.]",
+        "year": "1993-1997"
+    },
+    "2723": {
+        "name": "CITROEN SAXO 3/5 HB",
+        "year": "1991-2003"
+    },
+    "2724": {
+        "name": "CITROEN BERLINGO (ДИ Орион-М) минивэн [пятак+шелк/зерк.+ шелк.]",
+        "year": "1996- "
+    },
+    "2725": {
+        "name": "CITROEN XSARA 5D HB, купе, унив./BERLINE [пятак+VIN+шелк.]",
+        "year": "1997-2004"
+    },
+    "2726": {
+        "name": "CITROEN C3 5D HB [ДД]",
+        "year": "2002- "
+    },
+    "2727": {
+        "name": "CITROEN C5 5D HB, унив. [раздельные крепежи ДД + ДС]",
+        "year": "2000-2003"
+    },
+    "2729": {
+        "name": "CITROEN XSARA PICASSO мини-вэн",
+        "year": "1999-2004"
+    },
+    "2731": {
+        "name": "CITROEN C2 [окно под VIN]",
+        "year": "2003- "
+    },
+    "2732": {
+        "name": "CITROEN C4  3/5D[измен. пятак+крепл. под ДД+ДС]",
+        "year": "2004- "
+    },
+    "2735": {
+        "name": "CITROEN C4 PICASSO",
+        "year": "2007- "
+    },
+    "2741": {
+        "name": "CITROEN BERLINGO минивэн/PEUGEOT PARTNER",
+        "year": "2007- "
+    },
+    "2922": {
+        "name": "DAIHATSU TERIOS (5D) [шелк.]",
+        "year": "1997-2005"
+    },
+    "2923": {
+        "name": "TOYOTA DUET/DAIHATSU STORIA/SIRION M100 5D",
+        "year": "1998-2005"
+    },
+    "2926": {
+        "name": "DAIHATSU YRV 5D HBK",
+        "year": "2000- "
+    },
+    "2930": {
+        "name": "DAIHATSU SIRION II",
+        "year": "2005- "
+    },
+    "2933": {
+        "name": "DAIHATSU MATERIA 5D HB",
+        "year": "2007- "
+    },
+    "3000": {
+        "name": "DAEWOO NEXIA/CIELO 4D SED,3/5D HB [пятак + шелк.]",
+        "year": "1994- "
+    },
+    "3001": {
+        "name": "DAEWOO ESPERO 4D SED [пятак + шелк.]",
+        "year": "1993-2000"
+    },
+    "3002": {
+        "name": "DAEWOO TICO 3/5D HB [шелк.]",
+        "year": "1996-2001"
+    },
+    "3003": {
+        "name": "DAEWOO/CHEVROLET LANOS (ДИ Ассоль) 4D SED, 3/5D HB [пятак]",
+        "year": "1997- "
+    },
+    "3004": {
+        "name": "DAEWOO NUBIRA (ДИ Орион) 4D SED, 5D HB, унив. [пятак+шелк.]",
+        "year": "1997-2003"
+    },
+    "3005": {
+        "name": "DAEWOO LEGANZA (ДИ Кондор) 4D SED [пятак + шелк.]",
+        "year": "1997-2002"
+    },
+    "3006": {
+        "name": "DAEWOO MATIZ MINI-VAN/CHERY QQ [пятак + шелк.]",
+        "year": "2006- "
+    },
+    "3007": {
+        "name": "SSANG YONG MUSSO (5D)",
+        "year": "2008- "
+    },
+    "3008": {
+        "name": "SSANG YONG KORANDO (K4) (3D)",
+        "year": "1988-1996"
+    },
+    "3009": {
+        "name": "SSANG YONG KORANDO (KJ) (3D)/ TAGAZ TAGER",
+        "year": "1997- "
+    },
+    "3011": {
+        "name": "CHEVROLET REZZO 5D / DAEWOO TACUMA",
+        "year": "2001- "
+    },
+    "3014": {
+        "name": "CHEVROLET AVEO / DAEWOO KALOS",
+        "year": "2002- "
+    },
+    "3015": {
+        "name": "SSANG YONG REXTON (5D) [место под ДД]",
+        "year": "2002- "
+    },
+    "3016": {
+        "name": "CHEVROLET LACETTI 5D, 4D SED, унив. / DAEWOO NUBIRA J200",
+        "year": "2003- "
+    },
+    "3017": {
+        "name": "CHEVROLET SPARK 5D HB/DAEWOO MATIZ II",
+        "year": "2005- "
+    },
+    "3020": {
+        "name": "SSANGYONG KYRON (ант)",
+        "year": "2005-2007"
+    },
+    "3022": {
+        "name": "CHEVROLET AVEO 4D SED",
+        "year": "2006- "
+    },
+    "3023": {
+        "name": "CHEVROLET EPICA 4D SED",
+        "year": "2006- "
+    },
+    "3024": {
+        "name": "CHEVROLET CAPTIVA (LT)/OPEL ANTARA (обогр.+ДД+ДС)",
+        "year": "2007- "
+    },
+    "3328": {
+        "name": "FIAT 126 (2D), 3D HB (87-)",
+        "year": "1987-1995"
+    },
+    "3332": {
+        "name": "FIAT RITMO 3/5D HB/REGATA 4D SED",
+        "year": "1978-1984"
+    },
+    "3335": {
+        "name": "FIAT UNO/FIORINO 3/5D HB",
+        "year": "1982-1987"
+    },
+    "3337": {
+        "name": "FIAT TIPO 3/5D HB/TEMPRA 4D SED, унив. [пятак+шелк.]",
+        "year": "1988-1995"
+    },
+    "3338": {
+        "name": "FIAT UNO/FIORINO 3/5D HB [шелк.]",
+        "year": "1990-2002"
+    },
+    "3341": {
+        "name": "FIAT PUNTO 3/5D HB",
+        "year": "1993-1998"
+    },
+    "3344": {
+        "name": "FIAT COUPE 175 купе",
+        "year": "1994-2000"
+    },
+    "3348": {
+        "name": "FIAT BRAVO 3D HB/BRAVA 5D HB/MAREA 4D SED, унив. [пятак+шелк.]",
+        "year": "1995-2001"
+    },
+    "3349": {
+        "name": "FIAT PALIO 3/5D HB,WEEKEND(унив.)/SIENA 4D SED [пятак + шелк.]",
+        "year": "1996- "
+    },
+    "3350": {
+        "name": "FIAT SEICENTO 3D HB [подвижное]",
+        "year": "1997-2005"
+    },
+    "3351": {
+        "name": "FIAT PUNTO 5D HB [крепеж+шелк. под СтС+изм. разм.]",
+        "year": "1999-2005"
+    },
+    "3352": {
+        "name": "FIAT MULTIPLA MINI-VAN [пятак + шелк.]",
+        "year": "1998- "
+    },
+    "3354": {
+        "name": "FIAT DOBLO MINI-VAN / CARGO",
+        "year": "2001- "
+    },
+    "3355": {
+        "name": "FIAT STILO 5D HB, унив. [кассета+ДД]",
+        "year": "2001- "
+    },
+    "3359": {
+        "name": "FIAT PANDA",
+        "year": "2003- "
+    },
+    "3361": {
+        "name": "FIAT CROMA / NEW LARGE 5D унив. [пятак+касета+ДД+акустическое ]",
+        "year": "2005- "
+    },
+    "3362": {
+        "name": "FIAT GRANDE PUNTO 3/5D HB [ пятак+касета+ДД ]",
+        "year": "2005- "
+    },
+    "3365": {
+        "name": "FIAT BRAVO 5D HB",
+        "year": "2007- "
+    },
+    "3440": {
+        "name": "FIAT CINQUECENTO 3D HB [подвижное]",
+        "year": "1992-1998"
+    },
+    "3532": {
+        "name": "FORD FIESTA 3D HB",
+        "year": "1976-1981"
+    },
+    "3534": {
+        "name": "FORD ESCORT (2D), 3/5D HB, унив./ORION 4D SED [шелк.]",
+        "year": "1980-1990"
+    },
+    "3535": {
+        "name": "FORD TAUNUS/CORTINA 4D SED [1388*608]",
+        "year": "1980-1983"
+    },
+    "3538": {
+        "name": "FORD GRANADA 4D SED",
+        "year": "1982-1985"
+    },
+    "3539": {
+        "name": "FORD SIERRA 3/5D HB, унив.",
+        "year": "1982-1987"
+    },
+    "3541": {
+        "name": "FORD SCORPIO 4D SED, 5D HB, унив.",
+        "year": "1985-1992"
+    },
+    "3543": {
+        "name": "FORD SIERRA 4D SED, 3/5D HB, унив.",
+        "year": "1987-1993"
+    },
+    "3544": {
+        "name": "FORD FIESTA 3/5D HB [шелк. под зеркало]",
+        "year": "1989-1995"
+    },
+    "3545": {
+        "name": "FORD ESCORT 3/5D HB,унив./ORION 4D SED [шелк.+VIN-окно]",
+        "year": "1990-1992"
+    },
+    "3546": {
+        "name": "FORD MONDEO 4D SED, 5D HB, унив. [обогр.]",
+        "year": "1993-1996"
+    },
+    "3552": {
+        "name": "FORD FIESTA 3/5D HB [шелк.]",
+        "year": "1995-2000"
+    },
+    "3553": {
+        "name": "FORD PROBE купе",
+        "year": "1993-1997"
+    },
+    "3554": {
+        "name": "FORD KA 3D HB [шелк. под зеркало (изм.)]",
+        "year": "1996-2008"
+    },
+    "3555": {
+        "name": "FORD PUMA купе",
+        "year": "1997-2001"
+    },
+    "3556": {
+        "name": "FORD FOCUS 4D SED, 3/5D HB, унив. [пятак+шелк.]",
+        "year": "1998-2001"
+    },
+    "3558": {
+        "name": "FORD MAVERICK/ESCAPE/MAZDA TRIBUTE",
+        "year": "2000- "
+    },
+    "3559": {
+        "name": "FORD MONDEO 4D SED, 5D HB, унив. [ДД+молд.+обогр.+VIN]",
+        "year": "2003-2007"
+    },
+    "3562": {
+        "name": "FORD FIESTA 3/5D HB[ДД + обогрев]",
+        "year": "2005-2008"
+    },
+    "3563": {
+        "name": "FORD FUSION 5V (Пятак+VIN+молд.+ДД+обогрев+солар)",
+        "year": "2002- "
+    },
+    "3565": {
+        "name": "FORD FOCUS C-MAX 5D минивэн [крепеж под ДД+обогрев]",
+        "year": "2003-2005"
+    },
+    "3566": {
+        "name": "FORD FOCUS II 4D SED, 3D/5D HB, унив. [б/молд+обогр.+крепеж ДД]",
+        "year": "2006-2007"
+    },
+    "3567": {
+        "name": "FORD GALAXY[солар+ДД+VIN]",
+        "year": "2006- "
+    },
+    "3568": {
+        "name": "FORD S-MAX 5D MINI-VAN [ДД+Акустическое+VIN+нижн.молд.]",
+        "year": "2006- "
+    },
+    "3569": {
+        "name": "FORD MONDEO 4D SED, 5D HB, TURNIER (унив.)[VIN+молд.+обогрев]",
+        "year": "2007-2009"
+    },
+    "3570": {
+        "name": "MAZDA BT-50/FORD RANGER (пикап)",
+        "year": "2007- "
+    },
+    "3572": {
+        "name": "FORD FIESTA 3/5D HB (обогрев+ДД+VIN)",
+        "year": "2008- "
+    },
+    "3574": {
+        "name": "FORD KUGA 5D",
+        "year": "2008- "
+    },
+    "3721": {
+        "name": "RENAULT MAJOR 305-370 / FORD TRANSCONTINENTAL",
+        "year": "1975- "
+    },
+    "3725": {
+        "name": "FIAT DAILY 2D PICKUP",
+        "year": "1978-1998"
+    },
+    "3727": {
+        "name": "FIAT DUCATO/PEUGEOT J5 VAN",
+        "year": "1982-1994"
+    },
+    "3729": {
+        "name": "MAGIRIUS TURBOSTAR [2208*808]/IVECO TURBOSTAR",
+        "year": "1984-1993"
+    },
+    "3731": {
+        "name": "FORD TRANSIT VAN [шелк. (изм.)]",
+        "year": "1986-2000"
+    },
+    "3732": {
+        "name": "IVECO EUROCARGO [1985*882]",
+        "year": "1991- "
+    },
+    "3733": {
+        "name": "IVECO EUROSTAR/ FIAT STRALIS 2002- (широкая кабина)",
+        "year": "2002- "
+    },
+    "3734": {
+        "name": "IVECO EUROTECH/EUROTRAKKER 96-  (узкая кабина)",
+        "year": "1992- "
+    },
+    "3735": {
+        "name": "FIAT DUCATO/PEUGEOT BOXER VAN [пятак+шелк.]",
+        "year": "1994-2005"
+    },
+    "3739": {
+        "name": "FORD TRANSIT VAN/ TOURNEO BUS",
+        "year": "2000- "
+    },
+    "3741": {
+        "name": "FIAT IVECO DAILY II",
+        "year": "1999- "
+    },
+    "3743": {
+        "name": "FORD TOURNEO CONNECT/TRANSIT CONNECT[пятак+шелк.зерк.+обогр]",
+        "year": "2002- "
+    },
+    "3744": {
+        "name": "IVECO EUROCARGO",
+        "year": "2003- "
+    },
+    "3750": {
+        "name": "FIAT DUCATO III/PEUGEOT BOXER II/CITROEN JUMPER II",
+        "year": "2006- "
+    },
+    "3919": {
+        "name": "HONDA JAZZ/CITY 3D HB",
+        "year": "1984-1987"
+    },
+    "3921": {
+        "name": "HONDA Civic CRX (SB2) клипса",
+        "year": "1984-1988"
+    },
+    "3922": {
+        "name": "HONDA CIVIC SHUTTLE SB6 WAGON [шелк.]",
+        "year": "1984-1988"
+    },
+    "3925": {
+        "name": "HONDA CIVIC (SB4) 4D SED",
+        "year": "1984-1989"
+    },
+    "3927": {
+        "name": "HONDA ACCORD 4D SED",
+        "year": "1986-1990"
+    },
+    "3928": {
+        "name": "HONDA ACCORD AERODECK (унив.) (3D)",
+        "year": "1986-1990"
+    },
+    "3930": {
+        "name": "HONDA CIVIC (SH3) 3D HB [шелк.]",
+        "year": "1988-1992"
+    },
+    "3934": {
+        "name": "HONDA CIVIC SHUTTLE SH5 WAGON [шелк.]",
+        "year": "1988-1991"
+    },
+    "3936": {
+        "name": "HONDA ACCORD 4D SED,купе, AERODECK (унив.) [WS1655] Клипса",
+        "year": "1989-1993"
+    },
+    "3940": {
+        "name": "HONDA CIVIC (SR4) 4D SED [пятак+шелк.]",
+        "year": "1992-1996"
+    },
+    "3941": {
+        "name": "HONDA CIVIC (SR3) 3D HB [крепеж]",
+        "year": "1992-1996"
+    },
+    "3942": {
+        "name": "HONDA PRELUDE (SS0) купе [шелк.+шелк. под зеркало]",
+        "year": "1992-1996"
+    },
+    "3943": {
+        "name": "HONDA CONCERTO (SJ4) 4D SED, 3/5D HB [пятак+шелк.]",
+        "year": "1990-1994"
+    },
+    "3946": {
+        "name": "HONDA ACCORD купе [шелк.]",
+        "year": "1992-1994"
+    },
+    "3949": {
+        "name": "HONDA ACCORD 4D SED [пятак+шелк.]",
+        "year": "1993-1998"
+    },
+    "3952": {
+        "name": "HONDA ACCORD (SV4)  AERODECK (унив.)",
+        "year": "1994-1998"
+    },
+    "3953": {
+        "name": "HONDA ACCORD (SV2) купе",
+        "year": "1994-1998"
+    },
+    "3954": {
+        "name": "HONDA CIVIC 5D HB/AERODECK/ROVER-400/45 [верх.молд.+пятак+VIN]",
+        "year": "1994-2000"
+    },
+    "3955": {
+        "name": "HONDA SHUTTLE MINI VAN [пятак+шелк.]/ODYSSEY WAGON",
+        "year": "1995-1998"
+    },
+    "3956": {
+        "name": "HONDA CIVIC (SO3) 3D HB, купе [шелк.]",
+        "year": "1996-2001"
+    },
+    "3957": {
+        "name": "HONDA CIVIC 4D SED, унив.(SO4,SO6)/DOMANI 4D SED/ORTHIA/PARTNER",
+        "year": "1996-2000"
+    },
+    "3959": {
+        "name": "HONDA LEGEND 4D SED [пятак+шелк.]",
+        "year": "1996-2004"
+    },
+    "3960": {
+        "name": "HONDA ACCORD 4D SED, 5D HB [пятак+шелк.+VIN]",
+        "year": "1998-2003"
+    },
+    "3961": {
+        "name": "HONDA PRELUDE купе",
+        "year": "1996-2001"
+    },
+    "3962": {
+        "name": "HONDA CR-V (5D) [шелк.]",
+        "year": "1997-2002"
+    },
+    "3964": {
+        "name": "HONDA CIVIC CPE (купе)",
+        "year": "2001- "
+    },
+    "3965": {
+        "name": "HONDA INTEGRA купе",
+        "year": "1998- "
+    },
+    "3966": {
+        "name": "HONDA ACCORD купе",
+        "year": "1998- "
+    },
+    "3967": {
+        "name": "HONDA HR-V 3D/5D [шелк.+окно под VIN, б/пят. и б/шелк. под пят.]",
+        "year": "1999- "
+    },
+    "3968": {
+        "name": "HONDA LOGO 3D HB [шелк.+окно под VIN]",
+        "year": "1999- "
+    },
+    "3974": {
+        "name": "HONDA CIVIC 5D HB",
+        "year": "2001-2005"
+    },
+    "3976": {
+        "name": "HONDA CIVIC 3D HB",
+        "year": "2001-2005"
+    },
+    "3978": {
+        "name": "HONDA STREAM MINI-VAN",
+        "year": "2001- "
+    },
+    "3979": {
+        "name": "HONDA JAZZ/FIT 5D HB [шелк. п/зерк, без пятака]",
+        "year": "2002- "
+    },
+    "3980": {
+        "name": "HONDA CIVIC 4D SAL (сед.)",
+        "year": "2001-2006"
+    },
+    "3983": {
+        "name": "HONDA CR-V (5D) [шелк.+пятак+vin]",
+        "year": "2002-2004"
+    },
+    "3986": {
+        "name": "HONDA ACCORD 4D SED, 5D унив. (окно VIN + ДД)",
+        "year": "2003-2008"
+    },
+    "3992": {
+        "name": "HONDA FR-V 5D",
+        "year": "2004- "
+    },
+    "3998": {
+        "name": "HONDA CIVIC 3/5D HB (ДД+VIN)",
+        "year": "2005- "
+    },
+    "3999": {
+        "name": "HONDA CIVIC 4D SED [VIN]",
+        "year": "2006- "
+    },
+    "4000": {
+        "name": "HONDA CR-V (5D) (ДД+VIN)",
+        "year": "2007- "
+    },
+    "4001": {
+        "name": "HONDA LEGEND 4D SED [пятак+шелк.+ДД/ДС]",
+        "year": "2004- "
+    },
+    "4003": {
+        "name": "HONDA ACCORD 4D SED, унив.",
+        "year": "2008- "
+    },
+    "4104": {
+        "name": "HYUNDAI S купе [шелк.]",
+        "year": "1990-1996"
+    },
+    "4105": {
+        "name": "HYUNDAI PONY 3/5D HB/EXCEL 4D SED [шелк.]",
+        "year": "1990-1995"
+    },
+    "4108": {
+        "name": "HYUNDAI SONATA 4D SED (после 5/94) [пятак(изм.)+шелк.]",
+        "year": "1994-1998"
+    },
+    "4109": {
+        "name": "HYUNDAI ACCENT 4D SED, 3/5D HB [пятак (изм.-мал.)+шелк.]",
+        "year": "1997-1999"
+    },
+    "4111": {
+        "name": "HYUNDAI LANTRA 4D SED, унив. [пятак+шелк.]",
+        "year": "1995-1999"
+    },
+    "4113": {
+        "name": "HYUNDAI S/TIBURONE купе [пятак+шелк.]",
+        "year": "1996-2001"
+    },
+    "4115": {
+        "name": "HYUNDAI ATOS 5D HB",
+        "year": "1998-2000"
+    },
+    "4116": {
+        "name": "HYUNDAI H200/ H1/STAREX  VAN",
+        "year": "1997-2007"
+    },
+    "4117": {
+        "name": "HYUNDAI SONATA V  /GOLD 4D SED [пятак+шелк.]/KIA MAGENTIS 2001-",
+        "year": "1998-2001"
+    },
+    "4118": {
+        "name": "HYUNDAI ACCENT/VERNA 4D SED, 3/5D HB [пятак+шелк.]",
+        "year": "2000- "
+    },
+    "4119": {
+        "name": "HYUNDAI XG 4D SED",
+        "year": "2000- "
+    },
+    "4120": {
+        "name": "HYUNDAI TRAJET MINI-VAN [шелк.+ ДД]",
+        "year": "2000- "
+    },
+    "4122": {
+        "name": "HYUNDAI ELANTRA / AVANTE 4D SED, 5D HB [шелк.+пятак]",
+        "year": "2000-2006"
+    },
+    "4123": {
+        "name": "HYUNDAI SANTA FE 2001-2006/SANTA FE CLASSIC 06-",
+        "year": "2006- "
+    },
+    "4124": {
+        "name": "HYUNDAI TERRACAN 5D",
+        "year": "2001- "
+    },
+    "4125": {
+        "name": "HYUNDAI MATRIX 5D мини-вэн",
+        "year": "2001- "
+    },
+    "4128": {
+        "name": "HYUNDAI GETZ 3/5D HB",
+        "year": "2002- "
+    },
+    "4129": {
+        "name": "HYUNDAI TUCSON  5D [обогр.+пятак 6см от верха]",
+        "year": "2004- "
+    },
+    "4130": {
+        "name": "HYUNDAI NF (SONATA VI) 4D SED [пятак+шелк.+VIN+обогр.]",
+        "year": "2005- "
+    },
+    "4132": {
+        "name": "HYUNDAI GRANDEUR",
+        "year": "2005- "
+    },
+    "4133": {
+        "name": "HYUNDAI SANTA FE [VIN+ДД]",
+        "year": "2006- "
+    },
+    "4134": {
+        "name": "HYUNDAI VERNA 4D SED/ACCENT III",
+        "year": "2006- "
+    },
+    "4135": {
+        "name": "HYUNDAI I30 5D HB",
+        "year": "2007- "
+    },
+    "4139": {
+        "name": "HYUNDAI i20 5D HB",
+        "year": "2009- "
+    },
+    "4324": {
+        "name": "Jaguar XJ Series (XJ40, XJ6, X300, XJR, XJ8) [пят.+креп. ДД+Hz]",
+        "year": "1995-2003"
+    },
+    "4326": {
+        "name": "JAGUAR S-TYPE (пятак + прямоуг. крепеж ДД + обогрев)",
+        "year": "1998-2002"
+    },
+    "4401": {
+        "name": "KIA SEPHIA I/MENTOR 4D SED, 5D HB [шелк.]",
+        "year": "1993-1998"
+    },
+    "4402": {
+        "name": "KIA SPORTAGE (3/5D) [шелк.]",
+        "year": "1997-2004"
+    },
+    "4405": {
+        "name": "KIA CLARUS/CREDOS 4D SED",
+        "year": "1996-2001"
+    },
+    "4408": {
+        "name": "KIA CARNIVAL / SEDONA",
+        "year": "1998-2002"
+    },
+    "4409": {
+        "name": "KIA SHUMA II 5D HB/SPECTRA 4D SED [изм. шелк. под зеркало]",
+        "year": "2000- "
+    },
+    "4410": {
+        "name": "KIA CARENS молдинг лобового стекла",
+        "year": "1999-2002"
+    },
+    "4411": {
+        "name": "KIA RIO 4D SED,5D HB, унив. 2000-09/2005",
+        "year": "2000-2005"
+    },
+    "4412": {
+        "name": "KIA 2700 / 3600-II PU",
+        "year": "2000- "
+    },
+    "4416": {
+        "name": "KIA JOYCE MPV",
+        "year": "2001- "
+    },
+    "4418": {
+        "name": "KIA SORENTO 5D",
+        "year": "2002-2009"
+    },
+    "4419": {
+        "name": "KIA CARENS",
+        "year": "2002-2006"
+    },
+    "4421": {
+        "name": "KIA CERATO 4D SED, 5D HB",
+        "year": "2004-2009"
+    },
+    "4422": {
+        "name": "KIA PICANTO 5D компакт вэн",
+        "year": "2004- "
+    },
+    "4424": {
+        "name": "KIA SPORTAGE NEW",
+        "year": "2004- "
+    },
+    "4426": {
+        "name": "KIA RIO II (PRIDE) 5D HB, 4D SED",
+        "year": "2005- "
+    },
+    "4427": {
+        "name": "KIA MAGENTIS 4D [обогрев]",
+        "year": "2006-2008"
+    },
+    "4430": {
+        "name": "KIA CARENS",
+        "year": "2006- "
+    },
+    "4431": {
+        "name": "KIA CEED 5D HB, унив. [обогрев+VIN]",
+        "year": "2006- "
+    },
+    "4433": {
+        "name": "KIA  PRO-CEED 3D HB (VIN)",
+        "year": "2006- "
+    },
+    "4434": {
+        "name": "KIA SOUL унив.",
+        "year": "2009- "
+    },
+    "44XX": {
+        "name": "KIA AVELLA  3/5D HB",
+        "year": "1996- "
+    },
+    "4500": {
+        "name": "ВАЗ 2101 - 2107",
+        "year": "1970-1988"
+    },
+    "4501": {
+        "name": "ВАЗ 2121 НИВА",
+        "year": "1980- "
+    },
+    "4502": {
+        "name": "ВАЗ 2108, 09, 99,13,14,15",
+        "year": "1985-2003"
+    },
+    "4503": {
+        "name": "ВАЗ 2110, 2111, 2112/PRIORA [шелк.]",
+        "year": "1995- "
+    },
+    "4504": {
+        "name": "ВАЗ 1111 ОКА 3D HB",
+        "year": "1985- "
+    },
+    "4514": {
+        "name": "ГАЗ 2705, 3302 ГАЗЕЛЬ, СОБОЛЬ, БАРГУЗИН, ВАЛДАЙ",
+        "year": "1990- "
+    },
+    "4517": {
+        "name": "ГАЗ 24, 24УН, 2410, 3102, 3110 Волга",
+        "year": "1970-1986"
+    },
+    "4549": {
+        "name": "КАЛИНА ЛАДА (LADA KALINA) 4D SED",
+        "year": "2005- "
+    },
+    "4621": {
+        "name": "DAF 600/800/1000, DAF 45(1920X832) (шелк.)",
+        "year": "1984- "
+    },
+    "4624": {
+        "name": "DAF 95  [WS1533] резин.молд.лоб.стекла",
+        "year": "1986- "
+    },
+    "4625": {
+        "name": "DAF 75/95",
+        "year": "1993-1996"
+    },
+    "4635": {
+        "name": "DAF XF 105",
+        "year": "2006- "
+    },
+    "4729": {
+        "name": "LANCIA KAPPA 4D SED, унив. [молдинг+пятак+шелк.]",
+        "year": "1994-1996"
+    },
+    "4904": {
+        "name": "MAN F7/8",
+        "year": "1971-1987"
+    },
+    "4907": {
+        "name": "MAN F90 L28/ F2000",
+        "year": "1986- "
+    },
+    "4908": {
+        "name": "MAN F90 L12 (2292X822)",
+        "year": "1986- "
+    },
+    "4909": {
+        "name": "MAN L2000 (1923X757)",
+        "year": "1993-1997"
+    },
+    "4911": {
+        "name": "MAN TGA (узкий) STANDARD CAB NARROW BODY",
+        "year": "2000- "
+    },
+    "4912": {
+        "name": "MAN TGA (широкий) STANDARD CAB  WIDE BODY",
+        "year": "2000- "
+    },
+    "4913": {
+        "name": "MAN TGA TRUCK (широкий) SLEEPER BODY",
+        "year": "2000- "
+    },
+    "5116": {
+        "name": "MAZDA 323 3D HB [изм. разм.]",
+        "year": "1980-1985"
+    },
+    "5119": {
+        "name": "MAZDA 929 4D SED [шелк.]",
+        "year": "1981-1987"
+    },
+    "5122": {
+        "name": "MAZDA 626 купе, 5D HB",
+        "year": "1983-1988"
+    },
+    "5123": {
+        "name": "MAZDA 626 4D SED [без шелк.]",
+        "year": "1983-1988"
+    },
+    "5124": {
+        "name": "MAZDA E2000/2200/TRANSPORTER/BONGO (SO92) VAN",
+        "year": "1984-2000"
+    },
+    "5125": {
+        "name": "MAZDA 323 4D SED, 3/5D HB, унив. [шелк.]",
+        "year": "1985-1989"
+    },
+    "5129": {
+        "name": "MAZDA 626 4D SED, унив. [шелк.]",
+        "year": "1988-1992"
+    },
+    "5131": {
+        "name": "MAZDA 929 4D SED [шелк., подходит на правый руль]",
+        "year": "1987- "
+    },
+    "5133": {
+        "name": "MAZDA 626 купе, 5D HB [шелк.]",
+        "year": "1988-1992"
+    },
+    "5134": {
+        "name": "MAZDA 323 3D HB [шелк.]",
+        "year": "1989-1994"
+    },
+    "5135": {
+        "name": "MAZDA 323 4D SED [шелк.]",
+        "year": "1989-1994"
+    },
+    "5136": {
+        "name": "MAZDA 323 (F-MODEL) 5D HB [шелк.]",
+        "year": "1989-1994"
+    },
+    "5138": {
+        "name": "MAZDA (5134A/5135A/5138A)",
+        "year": "1998-2005"
+    },
+    "5139": {
+        "name": "MAZDA 121 4D SED [шелк.]",
+        "year": "1991-1995"
+    },
+    "5140": {
+        "name": "MAZDA MX3 купе [шелк.]",
+        "year": "1991-2000"
+    },
+    "5141": {
+        "name": "MAZDA 626 4D SED [2 отв.]",
+        "year": "1992-1997"
+    },
+    "5142": {
+        "name": "MAZDA 626 5D HB (LIFTBACK) [шелк.]",
+        "year": "1992-1997"
+    },
+    "5143": {
+        "name": "MAZDA MX6 купе [шелк.]",
+        "year": "1992-1997"
+    },
+    "5144": {
+        "name": "MAZDA XEDOS 6 4D SED [шелк.]",
+        "year": "1992-2001"
+    },
+    "5146": {
+        "name": "MAZDA XEDOS 9/MILLENIA 4D SED (кроме амер. сборки)",
+        "year": "1993- "
+    },
+    "5149": {
+        "name": "MAZDA 323 F/ASTINA 5D HB [шелк.]",
+        "year": "1994-1998"
+    },
+    "5150": {
+        "name": "MAZDA 323 FAMILIA 4D SED/NEO 3D HB [пятак+шелк.]",
+        "year": "1994-1998"
+    },
+    "5153": {
+        "name": "MAZDA 626 4D SED, 5D HB [пятак+шелк.]",
+        "year": "1997-2002"
+    },
+    "5155": {
+        "name": "MAZDA 323 4D SED, 5D HB (F) [пятак+шелк.]=MAZDA PROTEGE",
+        "year": "1998- "
+    },
+    "5156": {
+        "name": "MAZDA 626 унив. [пятак+шелк.]",
+        "year": "1997-2002"
+    },
+    "5158": {
+        "name": "MAZDA B2200/B2500/B2600 = FORD RANGER'99",
+        "year": "1999-2006"
+    },
+    "5159": {
+        "name": "MAZDA PREMACY MINI VAN",
+        "year": "1999-2004"
+    },
+    "5160": {
+        "name": "MAZDA MPV II MINI-VAN",
+        "year": "2000- "
+    },
+    "5162": {
+        "name": "Mazda Tribute/Ford Maverick/Escape (= WS3558)",
+        "year": "2000- "
+    },
+    "5164": {
+        "name": "Mazda 6 4D SED, 5D HB, унив.[изм. шелк. под пятак+ДД]",
+        "year": "2005-2007"
+    },
+    "5165": {
+        "name": "MAZDA DEMIO II MINI-VAN",
+        "year": "2003- "
+    },
+    "5166": {
+        "name": "MAZDA 3 [с молдингом]",
+        "year": "2003-2006"
+    },
+    "5167": {
+        "name": "Mazda RX8 2D купе (solar) [шелк.+пятак]",
+        "year": "2003- "
+    },
+    "5168": {
+        "name": "MAZDA 5 MPV",
+        "year": "2005- "
+    },
+    "5171": {
+        "name": "MAZDA CX-7 [молд.]",
+        "year": "2007- "
+    },
+    "5174": {
+        "name": "Mazda 6 4D SED, HB, унив. [молдинг+ДД]",
+        "year": "2007- "
+    },
+    "5320": {
+        "name": "MERCEDES  W123 (200/280) 4D SED, унив.",
+        "year": "1976-1985"
+    },
+    "5323": {
+        "name": "MERCEDES  W126 (500 SE) 4D SED [шелк.]",
+        "year": "1980-1991"
+    },
+    "5325": {
+        "name": "MERCEDES  W126 (500 SEC) купе [шелк.]",
+        "year": "1981-1993"
+    },
+    "5326": {
+        "name": "MERCEDES  W201 (190/190E) 4D SED [шелк., щетка обычная]",
+        "year": "1982-1984"
+    },
+    "5327": {
+        "name": "MERCEDES G (W463) GELANDEWAGEN(3/5D)[ш. п/зерк.,ДД,ДС, обог,ант]",
+        "year": "1997- "
+    },
+    "5328": {
+        "name": "MERCEDES  W124 4D SED, унив. [шелк.] (с 93 г. нижн. молд.)",
+        "year": "1985-1993"
+    },
+    "5329": {
+        "name": "MERCEDES  W201 (190/190E) 4D SED [шелк., щетка плавающая]",
+        "year": "1984-1993"
+    },
+    "5330": {
+        "name": "MERCEDES  W124 (280) 2D CABRIO, купе [шелк.]",
+        "year": "1986-1995"
+    },
+    "5331": {
+        "name": "MERCEDES  W129 (350 SL) 2D CABRIO [шелк.]",
+        "year": "1989-2001"
+    },
+    "5333": {
+        "name": "MERCEDES  W140 (SE/SEL) 4D SED",
+        "year": "1991-1998"
+    },
+    "5334": {
+        "name": "MERCEDES  W202 (C-CLASS) 4D SED, унив. [шелк.]",
+        "year": "1993-2000"
+    },
+    "5335": {
+        "name": "MERCEDES  W140 (500 SEC) купе [шелк.]",
+        "year": "1991-1999"
+    },
+    "5337": {
+        "name": "MERCEDES  W210 (E-CLASS) 4D SED, унив. [окно под VIN]",
+        "year": "1995-2001"
+    },
+    "5339": {
+        "name": "MERCEDES  W170 (SLK-CLASS) ROADSTER [пятак+шелк.+окно под VIN]",
+        "year": "1996-2000"
+    },
+    "5341": {
+        "name": "MERCEDES  W208 (CLK-CLASS) купе (б/пятака+ДД)",
+        "year": "1997-2002"
+    },
+    "5342": {
+        "name": "MERCEDES  W168 (A-CLASS) (5D) [пятак+шелк.+окно под VIN]",
+        "year": "1997-2004"
+    },
+    "5343": {
+        "name": "MERCEDES  ML W163 (M-CLASS) [Ant + 1 отв.]",
+        "year": "1998-1999"
+    },
+    "5344": {
+        "name": "MERCEDES  W220 (S-CLASS) 4D SED [обогр.+молд.+отв. п/разд.ДД,ДС]",
+        "year": "1998-2003"
+    },
+    "5347": {
+        "name": "MERCEDES  W211 (E-CLASS) 4D SED, унив. [ДД+ДС+окно под VIN]",
+        "year": "2002- "
+    },
+    "5350": {
+        "name": "MERCEDES SMART 3D HB [шелк.]",
+        "year": "1998- "
+    },
+    "5351": {
+        "name": "MERCEDES  W203 (C-CLASS) 4D SED, унив. [VIN+отв. раздел. ДД/ ДС]",
+        "year": "2000-2003"
+    },
+    "5352": {
+        "name": "MERCEDES  W203 (C-CLASS) Sportcoupe (купе) [ДД + ДС]",
+        "year": "2001-2003"
+    },
+    "5353": {
+        "name": "MERCEDES  W209 (CLK-CLASS) купе (ДД)",
+        "year": "2002- "
+    },
+    "5354": {
+        "name": "MERCEDES  W211 (E-CLASS) 4D SED, унив. [ДД+ДС+окно под VIN]",
+        "year": "2002- "
+    },
+    "5358": {
+        "name": "MERCEDES W169 (A-CLASS / B-CLASS ) (5D) [ДД]",
+        "year": "2004- "
+    },
+    "5359": {
+        "name": "MERCEDES SMART FORFOUR [крепеж+окно под VIN+ДД]",
+        "year": "2004- "
+    },
+    "5361": {
+        "name": "MERCEDES ML (M-CLASS) (W164) 2005-/ GL-CLASS 2006-",
+        "year": "2005- "
+    },
+    "5363": {
+        "name": "MERCEDES R-CLASS [ДД+VIN+кассета]",
+        "year": "2006- "
+    },
+    "5364": {
+        "name": "MERCEDES  W204 (C-CLASS) 4D SED, унив. [ДД+VIN+молд.]",
+        "year": "2007- "
+    },
+    "5368": {
+        "name": "MERCEDES SMART FOR TWO 3D HB",
+        "year": "2007- "
+    },
+    "5405": {
+        "name": "MERCEDES 608-808, 913 [1941*748]",
+        "year": "1964-1984"
+    },
+    "5406": {
+        "name": "MERCEDES L406-608, L309 высокий [1875*781]",
+        "year": "1965-1986"
+    },
+    "5416": {
+        "name": "MERCEDES 1013-4844/L381 LORRY [узкая кабина]",
+        "year": "1974- "
+    },
+    "5419": {
+        "name": "MERCEDES 207/209/210/307/308/408/409/410.../D VAN",
+        "year": "1976- "
+    },
+    "5422": {
+        "name": "MERCEDES 507,508,608, 814 -1520/LN673 LORRY",
+        "year": "1983-1997"
+    },
+    "5423": {
+        "name": "MERCEDES MB100/130 VAN [шелк.]",
+        "year": "1987-1996"
+    },
+    "5424": {
+        "name": "MERCEDES 507,609,709, 811, 814",
+        "year": "1986- "
+    },
+    "5425": {
+        "name": "MERCEDES 1628-4844/L381 LORRY [широкая кабина]",
+        "year": "1981- "
+    },
+    "5426": {
+        "name": "MERCEDES SPRINTER VAN низкий [1670*890]",
+        "year": "1994-2005"
+    },
+    "5427": {
+        "name": "MERCEDES SPRINTER VAN высокий [б/пятака]",
+        "year": "1994-2005"
+    },
+    "5428": {
+        "name": "MERCEDES  VITO W638 (V-CLASS) MINI-VAN [пятак+шелк.]",
+        "year": "1995-2003"
+    },
+    "5429": {
+        "name": "MERCEDES ACTROS 2D TRUCK",
+        "year": "1996- "
+    },
+    "5430": {
+        "name": "MERCEDES ATEGO, 1017 / AXOR",
+        "year": "1997- "
+    },
+    "5436": {
+        "name": "MERCEDES VANEO 5D",
+        "year": "2002- "
+    },
+    "5438": {
+        "name": "MERCEDES VITO/VIANO (Ант.)",
+        "year": "2003- "
+    },
+    "5439": {
+        "name": "MERCEDES SPRINTER/ VOLKSWAGEN CRAFTER VAN (пятак)",
+        "year": "2006- "
+    },
+    "5621": {
+        "name": "MITSUBISHI PAJERO I (SJ25)/MONTERO (3/5D)",
+        "year": "1998- "
+    },
+    "5622": {
+        "name": "MITSUBISHI COLT 3/5D HB/LANCER 4D SED [шелк.]",
+        "year": "1984-1988"
+    },
+    "5623": {
+        "name": "MITSUBISHI SPACE WAGON MINI-VAN [шелк.]",
+        "year": "1983-1990"
+    },
+    "5628": {
+        "name": "MITSUBISHI L-200 2D PICKUP [1428*633]",
+        "year": "1987-1996"
+    },
+    "5629": {
+        "name": "MITSUBISHI L-300 VAN [шелк.]",
+        "year": "1993- "
+    },
+    "5630": {
+        "name": "MITSUBISHI GALANT (E30) 4D SED",
+        "year": "1988-1992"
+    },
+    "5632": {
+        "name": "MITSUBISHI LANCER 3D HB / COLT [шелк.]",
+        "year": "1988-1992"
+    },
+    "5633": {
+        "name": "MITSUBISHI LANCER (C60) 4D SED, 5D HB [шелк.]",
+        "year": "1988-1992"
+    },
+    "5634": {
+        "name": "MITSUBISHI GALANT (E30) 5D HB [шелк.]",
+        "year": "1988-1992"
+    },
+    "5637": {
+        "name": "MITSUBISHI PAJERO II/MONTERO (3/5D)",
+        "year": "1991-2000"
+    },
+    "5638": {
+        "name": "MITSUBISHI SPACE RUNNER / RVR (прав.руль до 1997 г.) MINI-VAN",
+        "year": "1991-1997"
+    },
+    "5639": {
+        "name": "MITSUBISHI SPACE WAGON MINI-VAN [шелк.]",
+        "year": "1991-1998"
+    },
+    "5640": {
+        "name": "MITSUBISHI ECLIPSE (d2#) купе [шелк.]",
+        "year": "1989-1995"
+    },
+    "5641": {
+        "name": "MITSUBISHI COLT/MIRAGE 3/5D HB [шелк.]",
+        "year": "1992-1995"
+    },
+    "5642": {
+        "name": "MITSUBISHI LANCER (E45) 4D SED, 5D унив. (шелк,)=WS5648",
+        "year": "1992-1995"
+    },
+    "5643": {
+        "name": "MITSUBISHI GALANT (E50) 4D SED, 5D HB [пятак+шелк.]",
+        "year": "1993-1996"
+    },
+    "5644": {
+        "name": "MITSUBISHI 3000 GT купе [шелк. п/пятак] = WS G2S7",
+        "year": "1991-1996"
+    },
+    "5646": {
+        "name": "MITSUBISHI CARISMA 4D SED, 5D HB [пятак+шелк.]",
+        "year": "1995-1999"
+    },
+    "5647": {
+        "name": "MITSUBISHI COLT 3D HB [пятак+шелк.]",
+        "year": "1995-2004"
+    },
+    "5648": {
+        "name": "MITSUBISHI LANCER (G41) 4D SED [пятак+шелк.](б/пят.=WS1820)",
+        "year": "1996-2002"
+    },
+    "5649": {
+        "name": "MITSUBISHI GALANT/LEGNUM 4D SED, унив. [пятак+шелк.]",
+        "year": "1997-2006"
+    },
+    "5650": {
+        "name": "MITSUBISHI L-200 [б/пят.] = MITSUBISHI PAJERO SPORT (WS5650)",
+        "year": "1996-2003"
+    },
+    "5651": {
+        "name": "MITSUBISHI ECLIPSE (d3#) купе, spyder [шелк.]",
+        "year": "1996-1999"
+    },
+    "5655": {
+        "name": "MITSUBISHI SPACE STAR MINI-VAN [пятак+шелк.]",
+        "year": "1998- "
+    },
+    "5658": {
+        "name": "MITSUBISHI SPACE WAGON MINI-VAN",
+        "year": "1999- "
+    },
+    "5660": {
+        "name": "MITSUBISHI PAJERO PININ (iO) (3D/5D) [пятак]",
+        "year": "1999- "
+    },
+    "5661": {
+        "name": "MITSUBISHI PAJERO III / MONTERO (3/5D)",
+        "year": "2000-2004"
+    },
+    "5662": {
+        "name": "MITSUBISHI SPACE RUNNER MINI-VAN",
+        "year": "2000- "
+    },
+    "5663": {
+        "name": "MITSUBISHI PAJERO JUNIOR/MINI (KX25) (3D)",
+        "year": "1994- "
+    },
+    "5668": {
+        "name": "MITSUBISHI OUTLANDER 5D",
+        "year": "2001- "
+    },
+    "5670": {
+        "name": "MITSUBISHI LANCER/EVO/CEDIA VII 4D SED, 5D унив.",
+        "year": "2003-2007"
+    },
+    "5672": {
+        "name": "MITSUBISHI COLT 5D HB [пятак]",
+        "year": "2004-2007"
+    },
+    "5673": {
+        "name": "MITSUBISHI GRANDIS MINI-VAN",
+        "year": "2004- "
+    },
+    "5676": {
+        "name": "MITSUBISHI COLT 3D HB [пятак]",
+        "year": "2005- "
+    },
+    "5679": {
+        "name": "MITSUBISHI L-200[пятак]",
+        "year": "2006-2006"
+    },
+    "5680": {
+        "name": "MITSUBISHI OUTLANDER XL /PEUGEOT4007/CITROEN C-CROSSER",
+        "year": "2007- "
+    },
+    "5684": {
+        "name": "MITSUBISHI LANCER X 4D SED, 5D HB",
+        "year": "2007- "
+    },
+    "5960": {
+        "name": "NISSAN BLUEBIRD U11 (B830) 4D SED, унив. [шелк.]",
+        "year": "1984-1986"
+    },
+    "5966": {
+        "name": "NISSAN TERRANO I [б/крепежа]",
+        "year": "1986-1993"
+    },
+    "5967": {
+        "name": "NISSAN SUNNY N13 4D SED, 5D HB [крепеж]",
+        "year": "1986-1991"
+    },
+    "5969": {
+        "name": "NISSAN BLUEBIRD T12 4D SED, 3/5D HB [шелк.]",
+        "year": "1986-1990"
+    },
+    "5978": {
+        "name": "NISSAN PRAIRIE M11 MINI-VAN",
+        "year": "1989-1995"
+    },
+    "5981": {
+        "name": "NISSAN PRIMERA P10 4D SED, 5D HB [пятак+шелк.]",
+        "year": "1990-1996"
+    },
+    "5984": {
+        "name": "NISSAN SUNNY N14 4D SED, 5D HB [крепеж]",
+        "year": "1991-1995"
+    },
+    "5985": {
+        "name": "NISSAN 100NX/SUNNY B13 купе [шелк.]",
+        "year": "1991-1995"
+    },
+    "5987": {
+        "name": "NISSAN SUNNY Y10 унив. [крепеж]",
+        "year": "1990-1998"
+    },
+    "5988": {
+        "name": "NISSAN MICRA K11 3D HB",
+        "year": "1992-2002"
+    },
+    "5990": {
+        "name": "NISSAN TERRANO II (3/5D) (пятак + шелк.)",
+        "year": "1993-2000"
+    },
+    "5992": {
+        "name": "NISSAN SERENA/VANETTE  (C 23) MINI-VAN [б/крепежа]",
+        "year": "1992-2001"
+    },
+    "5994": {
+        "name": "NISSAN SUNNY/SENTRA B14, 4D SED [Японец]",
+        "year": "1995-1998"
+    },
+    "5996": {
+        "name": "NISSAN MAXIMA QX (A32) 4D SED, унив. [шелк.] = WS N8L0",
+        "year": "1995-2000"
+    },
+    "5997": {
+        "name": "NISSAN VANETTE (C220) VAN",
+        "year": "1982-1987"
+    },
+    "6001": {
+        "name": "NISSAN ALMERA (N15) 3/5D HB, 4D SED = SUNNY B14 (WS5994)",
+        "year": "1995-2000"
+    },
+    "6002": {
+        "name": "NISSAN PRIMERA P11 4D SED, 5D HB, унив. [пятак+шелк.]",
+        "year": "1996-2001"
+    },
+    "6005": {
+        "name": "NISSAN PATHFINDER (5D) [подходит на INFINITI QX4]",
+        "year": "1997-2004"
+    },
+    "6006": {
+        "name": "NISSAN PATROL GR (Y61)/SAFARI (3/5D) [шелк.] подх. на прав. руль",
+        "year": "1998- "
+    },
+    "6007": {
+        "name": "NISSAN ALMERA (N16E) 3/5D HB c 2000г., 4D SED c 3/2001",
+        "year": "2000-2006"
+    },
+    "6011": {
+        "name": "NISSAN MICRA K12 3/5D HB (ДД)",
+        "year": "2003- "
+    },
+    "6014": {
+        "name": "NISSAN ALMERA TINO минивэн",
+        "year": "2000- "
+    },
+    "6015": {
+        "name": "NISSAN MAXIMA QX (A33) 4D SED [прямоуг. пятак]",
+        "year": "2000- "
+    },
+    "6018": {
+        "name": "NISSAN X-TRAIL (T30)",
+        "year": "2001-2007"
+    },
+    "6020": {
+        "name": "NISSAN PRIMERA P12 4D SED, 5D HB, унив.",
+        "year": "2002- "
+    },
+    "6027": {
+        "name": "NISSAN 350Z CPE / CAB",
+        "year": "2003- "
+    },
+    "6032": {
+        "name": "NISSAN MURANO 5D [шелк. + пятак]",
+        "year": "2003-2008"
+    },
+    "6033": {
+        "name": "INFINITI FX35, FX45[VIN-окно]",
+        "year": "2003-2008"
+    },
+    "6034": {
+        "name": "NISSAN TEANA 4D SED",
+        "year": "2004-2008"
+    },
+    "6037": {
+        "name": "NISSAN PATHFINDER/NAVARA",
+        "year": "2005- "
+    },
+    "6041": {
+        "name": "NISSAN NOTE 5D HB [пятак+ДД+VIN]",
+        "year": "2006- "
+    },
+    "6044": {
+        "name": "NISSAN QASHQAI (P32L)/QASHQAI+2 [ДД+VIN-окно]",
+        "year": "2006- "
+    },
+    "6046": {
+        "name": "NISSAN TIIDA 5D HB, 4D SED",
+        "year": "2007- "
+    },
+    "6047": {
+        "name": "NISSAN X-TRAIL (T31)",
+        "year": "2007- "
+    },
+    "6051": {
+        "name": "NISSAN MURANO (ДД)",
+        "year": "2008- "
+    },
+    "6056": {
+        "name": "INFINITI EX35",
+        "year": "2007- "
+    },
+    "6057": {
+        "name": "INFINITI FX35, FX50",
+        "year": "2008- "
+    },
+    "6067": {
+        "name": "NISSAN TEANA II 4D SED",
+        "year": "2008- "
+    },
+    "60XX": {
+        "name": "NISSAN ALMERA CLASSIC 4D SED (=WS6007, но другой пятак)",
+        "year": "2006- "
+    },
+    "6243": {
+        "name": "OPEL KADETT D (2D), 4D SED, 3/5D HB, унив.",
+        "year": "1979-1984"
+    },
+    "6244": {
+        "name": "OPEL ASCONA C (2D), 4D SED, 5D HB [пятак]",
+        "year": "1982-1988"
+    },
+    "6245": {
+        "name": "OPEL CORSA 3/5D HB",
+        "year": "1982-1993"
+    },
+    "6246": {
+        "name": "OPEL RECORD E 4D SED",
+        "year": "1983-1986"
+    },
+    "6247": {
+        "name": "OPEL KADETT E 4D SED, 3/5D HB, унив./DAEWOO RACER [пятак+шелк.]",
+        "year": "1984-1994"
+    },
+    "6252": {
+        "name": "OPEL OMEGA A 4D SED, CARAVAN (унив.) [пятак+шелк.]",
+        "year": "1986-1994"
+    },
+    "6253": {
+        "name": "OPEL VECTRA A 4D SED, 5D HB [пятак+шелк.]",
+        "year": "1988-1995"
+    },
+    "6257": {
+        "name": "OPEL ASTRA 4D SED, 3/5D HB, унив. [пятак+шелк.+крепеж]",
+        "year": "1991-1995"
+    },
+    "6258": {
+        "name": "OPEL FRONTERA/SPORT (3/5D) [пятак+шелк.]",
+        "year": "1991-1998"
+    },
+    "6259": {
+        "name": "OPEL CORSA/COMBO 3/5D HB [пятак+шелк.]",
+        "year": "1993-2000"
+    },
+    "6261": {
+        "name": "OPEL OMEGA B 4D SED, CARAVAN (унив.) [пятак+шелк.]",
+        "year": "1994-2003"
+    },
+    "6263": {
+        "name": "OPEL TIGRA купе",
+        "year": "1994-2004"
+    },
+    "6270": {
+        "name": "ISUZU TROOPER I/RODEO (3/5D)",
+        "year": "1982-1992"
+    },
+    "6276": {
+        "name": "OPEL MONTEREY (5D) [шелк.]",
+        "year": "1992- "
+    },
+    "6277": {
+        "name": "OPEL VECTRA B 4D SED, 5D HB, CARAVAN (унив.)",
+        "year": "1995-2002"
+    },
+    "6280": {
+        "name": "ISUZU NQR / NPR",
+        "year": "1995- "
+    },
+    "6281": {
+        "name": "OPEL SINTRA MINI VAN [пятак+ант.+VIN]",
+        "year": "1997-2001"
+    },
+    "6283": {
+        "name": "OPEL ZAFIRA MINI-VAN [шелк.]",
+        "year": "1998-2005"
+    },
+    "6284": {
+        "name": "OPEL ASTRA 4D SED, 3/5D HB, унив. [пятак+шелк.]",
+        "year": "2004- "
+    },
+    "6287": {
+        "name": "OPEL FRONTERA B (3/5D)/ISUZU AMIGO RODEO [пятак+окно под VIN]",
+        "year": "1998-2003"
+    },
+    "6288": {
+        "name": "OPEL MERIVA MINI-VAN",
+        "year": "2003- "
+    },
+    "6289": {
+        "name": "OPEL ASTRA купе [пятак]",
+        "year": "2000- "
+    },
+    "6290": {
+        "name": "OPEL CORSA C 3/5D HB",
+        "year": "2000-2006"
+    },
+    "6291": {
+        "name": "OPEL AGILA / SUZUKI WAGON R+",
+        "year": "2000-2008"
+    },
+    "6292": {
+        "name": "OPEL COMBO [пятак]",
+        "year": "2001- "
+    },
+    "6294": {
+        "name": "OPEL VECTRA C 4/5D, унив./SIGNUM (крепление ДД)",
+        "year": "2003- "
+    },
+    "6302": {
+        "name": "OPEL ASTRA 5D HB, унив., 4D SED (ДД)",
+        "year": "2004-2005"
+    },
+    "6306": {
+        "name": "OPEL ASTRA 3D HB GTS",
+        "year": "2005- "
+    },
+    "6307": {
+        "name": "OPEL ZAFIRA MINI-VAN [ДД+окно под VIN]",
+        "year": "2005- "
+    },
+    "6312": {
+        "name": "OPEL CORSA D 3/5D HB [ДД] (с октября 2006)",
+        "year": "2006- "
+    },
+    "6314": {
+        "name": "OPEL ANTARA 5D",
+        "year": "2007- "
+    },
+    "6318": {
+        "name": "OPEL AGILA 5D HB/SUZUKI SPLASH 5D HB",
+        "year": "2008- "
+    },
+    "6512": {
+        "name": "PEUGEOT 305 4D SED, унив. [пятак]",
+        "year": "1978-1987"
+    },
+    "6514": {
+        "name": "PEUGEOT 205/309 5D HB",
+        "year": "1982-1998"
+    },
+    "6516": {
+        "name": "PEUGEOT 309 3/5D HB [пятак]",
+        "year": "1985-1990"
+    },
+    "6518": {
+        "name": "PEUGEOT 405 4D SED, унив. [пятак+шелк.]",
+        "year": "1987-1995"
+    },
+    "6519": {
+        "name": "PEUGEOT 605 4D SED [пятак+шелк.]",
+        "year": "1989-2000"
+    },
+    "6520": {
+        "name": "PEUGEOT 106 3/5D HB [пятак+шелк.(изм.)]",
+        "year": "1991-2003"
+    },
+    "6521": {
+        "name": "PEUGEOT 306 4D SED, 3/5D HB, унив. [пятак+шелк.]",
+        "year": "1992-2001"
+    },
+    "6524": {
+        "name": "PEUGEOT 306 2D CABRIO [пятак+шелк.]",
+        "year": "1993-2001"
+    },
+    "6525": {
+        "name": "PEUGEOT 406 4D SED, унив. (SOL, пят.+ромбов.ДД+ДС+VIN)",
+        "year": "2001-2004"
+    },
+    "6538": {
+        "name": "PEUGEOT 406 купе [пятак+шелк.+ ДД]",
+        "year": "1997-2001"
+    },
+    "6539": {
+        "name": "PEUGEOT 206 3/5D HB [Solar+пятак+шелк.+окно под VIN]",
+        "year": "1998-2001"
+    },
+    "6540": {
+        "name": "PEUGEOT 607 4D SED [ДД+молд.+шелк.+окно под VIN]",
+        "year": "2000-2005"
+    },
+    "6542": {
+        "name": "PEUGEOT 307 3/5D HB,унив. [пятак+ДД+кассета]",
+        "year": "2001-2003"
+    },
+    "6544": {
+        "name": "PEUGEOT 407 4D SED, унив. [ДД+атермальное стекло]",
+        "year": "2004- "
+    },
+    "6547": {
+        "name": "PEUGEOT 1007 3D HB",
+        "year": "2005- "
+    },
+    "6548": {
+        "name": "PEUGEOT 207 3/5D HB [пятак+кассета+ДД]",
+        "year": "2006-2007"
+    },
+    "6549": {
+        "name": "PEUGEOT 107 3/5D HB/ TOYOTA AYGO/ CITROEN C1",
+        "year": "2005- "
+    },
+    "6554": {
+        "name": "PEUGEOT 308 3/5D HB, унив.",
+        "year": "2007- "
+    },
+    "6711": {
+        "name": "PORSCHE 924/944 CARRERA GT купе [пятак+шелк.]",
+        "year": "1976-1987"
+    },
+    "7008": {
+        "name": "RANGE ROVER (3/5D)",
+        "year": "1970-1994"
+    },
+    "7012": {
+        "name": "LAND ROVER DEFENDER 90-110/COUNTY",
+        "year": "1983-2002"
+    },
+    "7015": {
+        "name": "ROVER 800 4D SED [пятак+шелк.]",
+        "year": "1986-1991"
+    },
+    "7018": {
+        "name": "ROVER 800 4D SED, 5D HB [пятак+шелк.+окно под VIN]",
+        "year": "1991-1998"
+    },
+    "7022": {
+        "name": "LANDROVER DISCOVERY (5D) [шелк.]",
+        "year": "1994-1995"
+    },
+    "7024": {
+        "name": "RANGE ROVER (3/5D) [пятак+обогр.+окно под VIN]",
+        "year": "1994-1999"
+    },
+    "7027": {
+        "name": "ROVER 200,214,216,218,220/25 3/5D HB [пятак+окно под VIN]",
+        "year": "1995- "
+    },
+    "7028": {
+        "name": "LAND ROVER FREELANDER (3/5D) [пятак+шелк.+б/молдинга+VIN]",
+        "year": "1997-1999"
+    },
+    "7029": {
+        "name": "LANDROVER DISCOVERY II (5D)",
+        "year": "1998-2004"
+    },
+    "7032": {
+        "name": "LANDROVER DISCOVERY III [ДД+обогрев]",
+        "year": "2004-2009"
+    },
+    "7033": {
+        "name": "RANGE ROVER VOGUE [обогрев+ДД]",
+        "year": "2007-2009"
+    },
+    "7035": {
+        "name": "ROVER 75 / MG ZT (2000- ) 4D SED, 5D Tourer (унив.) [ДД]",
+        "year": "1998- "
+    },
+    "7038": {
+        "name": "LAND ROVER FREELANDER II (3/5D) [обогр.+ДД]",
+        "year": "2006- "
+    },
+    "7208": {
+        "name": "RENAULT R64",
+        "year": "1961-1980"
+    },
+    "7219": {
+        "name": "RENAULT G-SERIE / SAVIEM HM 15 [2136*746]",
+        "year": "1979- "
+    },
+    "7222": {
+        "name": "RENAULT TRAFFIC VAN [пятак]",
+        "year": "1981-2000"
+    },
+    "7226": {
+        "name": "RENAULT 25 5D HB [пятак+шелк.]",
+        "year": "1984-1993"
+    },
+    "7230": {
+        "name": "RENAULT 21 4D SED, 5D HB/NEVADA (унив.) [пятак+шелк.]",
+        "year": "1986-1996"
+    },
+    "7231": {
+        "name": "RENAULT 19 3/5D HB/CHAMADE 4D SED [пятак+шелк.]",
+        "year": "1988-2000"
+    },
+    "7232": {
+        "name": "RENAULT CLIO 3/5D HB [пятак+шелк.]",
+        "year": "1988-1996"
+    },
+    "7233": {
+        "name": "RENAULT AE 80/380/500 MAGNUM [шелк.]",
+        "year": "1991- "
+    },
+    "7234": {
+        "name": "RENAULT ESPACE (R36) MINI-VAN [пятак+шелк.]",
+        "year": "1991-1996"
+    },
+    "7236": {
+        "name": "RENAULT TWINGO 3D HB [пятак+шелк.]",
+        "year": "1993-2007"
+    },
+    "7237": {
+        "name": "Renault Laguna I Estate (Набор клипс 6 шт.)",
+        "year": "1993-2000"
+    },
+    "7239": {
+        "name": "RENAULT MEGANE 5D HB, унив./CLASSIC 4D SED [пятак+шелк.]",
+        "year": "1995-1998"
+    },
+    "7240": {
+        "name": "RENAULT MEGANE 3D купе [отв.]",
+        "year": "1995-2003"
+    },
+    "7242": {
+        "name": "RENAULT PREMIUM TRUCK \\ VOLVO FE 2007-",
+        "year": "1996- "
+    },
+    "7243": {
+        "name": "RENAULT ESPACE MINI-VAN [пятак+шелк.+окно под VIN]",
+        "year": "1996-2002"
+    },
+    "7245": {
+        "name": "RENAULT MEGANE SCENIC MINI-VAN [пятак+шелк.]",
+        "year": "1996-2003"
+    },
+    "7246": {
+        "name": "RENAULT KANGOO MINI-VAN [целое]",
+        "year": "1997-1999"
+    },
+    "7247": {
+        "name": "RENAULT MASTER VAN/MASCOTT/FIAT DAILY II/OPEL MOVANO",
+        "year": "2003- "
+    },
+    "7248": {
+        "name": "RENAULT CLIO 3/5D HB до 05/SYMBOL 4D SED [пятак+шелк.до зеркала]",
+        "year": "1998-2005"
+    },
+    "7249": {
+        "name": "RENAULT LAGUNA II 5D HB/ EST (унив.) [креп.под ДД прямоугольный]",
+        "year": "2000-2003"
+    },
+    "7252": {
+        "name": "RENAULT TRAFFIC VAN/OPEL VIVARO/NISSAN PRIMASTAR [окно под VIN]",
+        "year": "2003- "
+    },
+    "7253": {
+        "name": "RENAULT MIDLUM / DAF LF 45-55 / VOLVO FL 2007-",
+        "year": "2001- "
+    },
+    "7257": {
+        "name": "RENAULT SCENIC, GRAND SCENIC MINI-VAN [Solar+окно под VIN]",
+        "year": "2003-2009"
+    },
+    "7260": {
+        "name": "RENAULT MEGANE II 3/5D HB, 4D SED, унив. (окно под VIN + ДД)",
+        "year": "2002-2008"
+    },
+    "7262": {
+        "name": "RENAULT CLIO 3/5D HB/CLIO GRAND TOUR 5D унив.[пятак+ДД+VIN]",
+        "year": "2005- "
+    },
+    "7264": {
+        "name": "RENAULT LOGAN 4D SED, MCV",
+        "year": "2007- "
+    },
+    "7273": {
+        "name": "RENAULT LAGUNA III 4D SED/ 5D HB [ДД]",
+        "year": "2007- "
+    },
+    "7274": {
+        "name": "RENAULT KANGOO II MINI-VAN [ДД+VIN]",
+        "year": "2007- "
+    },
+    "7277": {
+        "name": "RENAULT KOLEOS 5D (ДД)",
+        "year": "2008- "
+    },
+    "7279": {
+        "name": "RENAULT MEGANE 5D HB, унив. (ДД)",
+        "year": "2008- "
+    },
+    "7406": {
+        "name": "SAAB 9000 4D SED, 5D HB [окно под VIN]",
+        "year": "1985-1988"
+    },
+    "7408": {
+        "name": "SAAB 900 3/5D HB [крепеж+шелк.+окно под VIN]",
+        "year": "1994-2002"
+    },
+    "7410": {
+        "name": "SAAB 9-5 унив.",
+        "year": "1997- "
+    },
+    "7411": {
+        "name": "SAAB 9-3 4D SED, SPORT COMBI 5D унив. (ДД)",
+        "year": "2002- "
+    },
+    "7505": {
+        "name": "SCANIA 82-113 M/T/P/G + 143 [2120*792]",
+        "year": "1981-1995"
+    },
+    "7506": {
+        "name": "SCANIA 84, 94, 114, 144 (SERIE 4)",
+        "year": "1995- "
+    },
+    "7507": {
+        "name": "SCANIA R-SERIES (SERIE-5)",
+        "year": "2004- "
+    },
+    "7603": {
+        "name": "CHERY AMULET -07/SEAT TOLEDO 4D SED [пятак]",
+        "year": "2003-2007"
+    },
+    "7604": {
+        "name": "SEAT IBIZA 3/5D HB [3 отв.+молд.+шелк. под СтС]",
+        "year": "1993-1996"
+    },
+    "7607": {
+        "name": "SEAT AROSA/VOLKSWAGEN LUPO 3D HB [пятак+шелк.]",
+        "year": "1997- "
+    },
+    "7608": {
+        "name": "SEAT TOLEDO 4D SED / LEONE 5D HB [пятак+шелк.+окно под VIN]]",
+        "year": "1999-2005"
+    },
+    "7609": {
+        "name": "SEAT IBIZA 3/5D HB/CORDOBA 4D SED =(WS8571) VW POLO CLASSIC",
+        "year": "2000-2002"
+    },
+    "7610": {
+        "name": "SEAT IBIZA 3/5D HB/CORDOBA 4D SED (ДД)",
+        "year": "2003- "
+    },
+    "7613": {
+        "name": "SEAT LEON II 5D HB [кассета+ДД+окно под VIN]",
+        "year": "2005- "
+    },
+    "7806": {
+        "name": "SKODA FELICIA 5D HB, унив.",
+        "year": "1995-2001"
+    },
+    "7807": {
+        "name": "SKODA OCTAVIA/OCTAVIA TOUR 5D HB, унив. [пятак+молд.+VIN]",
+        "year": "1997-2004"
+    },
+    "7808": {
+        "name": "SKODA FABIA 4D SED,5D HB, унив. [пятак+окно под VIN]",
+        "year": "1999- "
+    },
+    "7810": {
+        "name": "SKODA OCTAVIA A5 5D HB, унив.",
+        "year": "2004- "
+    },
+    "7811": {
+        "name": "SKODA FABIA 5D HB /ROOMSTER MPV  2006-/PRAKTIK MPV",
+        "year": "2007- "
+    },
+    "7812": {
+        "name": "SKODA SUPERB 5D HB [ДД]",
+        "year": "2008- "
+    },
+    "7906": {
+        "name": "SUBARU LEONE 1800 4D SED, унив.",
+        "year": "1984-1993"
+    },
+    "7911": {
+        "name": "SUBARU JUSTY 5D HB",
+        "year": "1989-1995"
+    },
+    "7912": {
+        "name": "SUBARU LEGACY (44BA) 4D SED,OUTBACK (унив.) [шелк.]",
+        "year": "1990-1994"
+    },
+    "7915": {
+        "name": "SUBARU IMPREZA 4D SED, WAGON (унив.) [шелк.]",
+        "year": "1993-1999"
+    },
+    "7919": {
+        "name": "SUBARU LEGACY (22C) 4D SED,OUTBACK (унив.) [шелк.]",
+        "year": "1994-1998"
+    },
+    "7923": {
+        "name": "SUBARU FORESTER унив. [пятак+шелк.]",
+        "year": "1997-1999"
+    },
+    "7925": {
+        "name": "SUBARU LEGACY 4D SED,OUTBACK (унив.) [пятак+шелк.]",
+        "year": "1999-2003"
+    },
+    "7926": {
+        "name": "SUBARU IMPREZA 4D SED",
+        "year": "2000-2007"
+    },
+    "7927": {
+        "name": "SUBARU IMPREZA 5D HB",
+        "year": "2000-2007"
+    },
+    "7928": {
+        "name": "SUBARU FORESTER",
+        "year": "2002-2005"
+    },
+    "7929": {
+        "name": "SUBARU LEGACY 4D SED,OUTBACK",
+        "year": "2003- "
+    },
+    "7931": {
+        "name": "SUBARU B9 TRIBECA 4D UTILITY[пятак+обогрев щеток+VIN]",
+        "year": "2005- "
+    },
+    "7932": {
+        "name": "SUBARU IMPREZA 5D HB",
+        "year": "2007- "
+    },
+    "7934": {
+        "name": "SUBARU FORESTER 5D [VIN]",
+        "year": "2008- "
+    },
+    "8008": {
+        "name": "DAEWOO DAMAS/SUZUKI CARRY SUPER 86-91 (SA71) VAN",
+        "year": "1995- "
+    },
+    "8010": {
+        "name": "SUZUKI VITARA (YOE)/SIDE KICK (3/5D)",
+        "year": "1989-1998"
+    },
+    "8011": {
+        "name": "SUZUKI SWIFT II (Y3F) 3D HB [шелк.]",
+        "year": "1996- "
+    },
+    "8012": {
+        "name": "SUZUKI SWIFT II (Y9F) 4D SED, 5D HB [шелк.]/ SUBARU JUSTY",
+        "year": "1996-2003"
+    },
+    "8016": {
+        "name": "SUZUKI BALENO 3D HB, 4D SED, унив. [шелк.]",
+        "year": "1995-2002"
+    },
+    "8017": {
+        "name": "SUZUKI X90 (VITARA) (2D) [шелк.]",
+        "year": "1996-1998"
+    },
+    "8020": {
+        "name": "SUZUKI GRAND VITARA / GRAND VITARA XL-7 (3/5D)",
+        "year": "1999-2003"
+    },
+    "8022": {
+        "name": "SUZUKI JIMNY 3D",
+        "year": "1998- "
+    },
+    "8028": {
+        "name": "SUZUKI LIANA/AERIO 5D MPV/ 4D SED [шелк.+пятак]",
+        "year": "2001-2006"
+    },
+    "8030": {
+        "name": "SUZUKI IGNIS 5D=Subaru Justy'03 (7930A)",
+        "year": "2003- "
+    },
+    "8031": {
+        "name": "SUZUKI SWIFT 3/5D",
+        "year": "2005- "
+    },
+    "8032": {
+        "name": "SUZUKI GRAND VITARA 3D/5D",
+        "year": "2005- "
+    },
+    "8033": {
+        "name": "SUZUKI SX4 / FIAT SEDICI 5D",
+        "year": "2006- "
+    },
+    "8120": {
+        "name": "CITROEN C5 5D HB, унив. накладка на лоб.стекло левая (серая)",
+        "year": "2008- "
+    },
+    "8239": {
+        "name": "TOYOTA LANDCRUISER FJ/HJ60",
+        "year": "1981-1988"
+    },
+    "8242": {
+        "name": "TOYOTA CARINA (AT60) 4D SED, унив.",
+        "year": "1981-1984"
+    },
+    "8247": {
+        "name": "TOYOTA COROLLA (AE/EE80) 3D HB",
+        "year": "1983-1987"
+    },
+    "8252": {
+        "name": "TOYOTA STARLET (KP70/71) 3/5D HB [без шелк.]",
+        "year": "1984-1990"
+    },
+    "8253": {
+        "name": "TOYOTA CELICA (ST162) купе",
+        "year": "1986-1989"
+    },
+    "8255": {
+        "name": "Toyota Dyna 200 (RU60) STD TRUCK (станд. кабина) (=WS T2T61)",
+        "year": "1984-2001"
+    },
+    "8256": {
+        "name": "TOYOTA LITE-ACE (KM20/21) VAN",
+        "year": "1986-1992"
+    },
+    "8258": {
+        "name": "Toyota Camry (SV20/SV21/SV22) / Vista 4D SED, унив.",
+        "year": "1987-1991"
+    },
+    "8259": {
+        "name": "TOYOTA COROLLA (AE/ EE90) 4D SED,5D HB,унив. [шелк.]",
+        "year": "1987-1992"
+    },
+    "8260": {
+        "name": "TOYOTA COROLLA (AE/ EE92) 3/5D LIFTBACK",
+        "year": "1987-1992"
+    },
+    "8262": {
+        "name": "TOYOTA CARINA (AT171)",
+        "year": "1988-1992"
+    },
+    "8266": {
+        "name": "TOYOTA HI-LUX (RN/LN 85/90/106/110) PICKUP",
+        "year": "1989-1997"
+    },
+    "8268": {
+        "name": "TOYOTA HI-ACE (LH10/11,RH100) VAN (подх. на прав. руль)",
+        "year": "1989-2004"
+    },
+    "8269": {
+        "name": "TOYOTA CELICA (ST182/185) LIFTBACK/купе [шелк.]",
+        "year": "1989-1994"
+    },
+    "8271": {
+        "name": "TOYOTA 4-RUNNER/HI-LUX WAGON (3/5D)/GREAT WALL SAFE SUV",
+        "year": "2004- "
+    },
+    "8274": {
+        "name": "TOYOTA LANDCRUISER HJ80 (5D) [WS1671] резин.молд.лоб.стекла",
+        "year": "1996-1997"
+    },
+    "8276": {
+        "name": "TOYOTA PREVIA (TR10) MINI-VAN [шелк.]",
+        "year": "1990-1999"
+    },
+    "8278": {
+        "name": "TOYOTA CAMRY (SV30/35) 4D SED, унив. [шелк.+окно под VIN]",
+        "year": "1991-1996"
+    },
+    "8279": {
+        "name": "TOYOTA LITE-ACE (YR29/30) VAN",
+        "year": "1992-1996"
+    },
+    "8280": {
+        "name": "TOYOTA COROLLA (AE/EE100) 4D SED,3/5D HB,унив. [шелк.]",
+        "year": "1992-1997"
+    },
+    "8281": {
+        "name": "TOYOTA COROLLA/CORONA (AE100) 5D LIFTBACK [шелк.]",
+        "year": "1992-1997"
+    },
+    "8282": {
+        "name": "TOYOTA CARINA E (AT191) 4D SED, 5D LIFTBACK, унив. [шелк.]",
+        "year": "1992-1998"
+    },
+    "8286": {
+        "name": "TOYOTA CELICA (ST202) купе [шелк.]",
+        "year": "1994-1999"
+    },
+    "8287": {
+        "name": "TOYOTA RAV-4/FUNCRUISER (3/5D)",
+        "year": "1994-2000"
+    },
+    "8288": {
+        "name": "TOYOTA CAMRY (SV10/11) 4D SED [шелк.]",
+        "year": "1983-1987"
+    },
+    "8292": {
+        "name": "Toyota Dyna 200/300/400 (широкая кабина) (=WS T2T62)",
+        "year": "1984-1995"
+    },
+    "8295": {
+        "name": "TOYOTA HI-ACE (LXH12) VAN [шелк.] = c 2001 года",
+        "year": "1995-2004"
+    },
+    "8296": {
+        "name": "TOYOTA LEXUS LS400 (UF20) 4D SED",
+        "year": "1994-2000"
+    },
+    "8298": {
+        "name": "TOYOTA STARLET 3/5D HB",
+        "year": "1996-1999"
+    },
+    "8301": {
+        "name": "TOYOTA LANDCRUISER J9/PRADO (3/5D)",
+        "year": "1996-2003"
+    },
+    "8302": {
+        "name": "TOYOTA CAMRY 4D SED (SXV20,=прав. руль) [пятак+шелк.]",
+        "year": "1996- "
+    },
+    "8303": {
+        "name": "TOYOTA PICNIC MINI-VAN [шелк.]",
+        "year": "1996- "
+    },
+    "8304": {
+        "name": "TOYOTA COROLLA 4D SED, 3 HB/5D LB, унив. [б/пят+шелк.] = WS T2K0",
+        "year": "1997-2002"
+    },
+    "8305": {
+        "name": "TOYOTA AVENSIS 4D SED, 5D LIFTBACK, унив.",
+        "year": "1997-2003"
+    },
+    "8306": {
+        "name": "TOYOTA LANDCRUISER HDJ100 (5D) [ДД + окно под VIN]",
+        "year": "2003- "
+    },
+    "8308": {
+        "name": "TOYOTA 4-RUNNER (USA) (шелк. + VIN)/TOYOTA HI-LUX (ZN10) PICKUP",
+        "year": "1995-2002"
+    },
+    "8309": {
+        "name": "TOYOTA LEXUS IS200 4D SED",
+        "year": "1999-2005"
+    },
+    "8310": {
+        "name": "TOYOTA VITZ/YARIS/ECHO/PLATZ 4D SED, 3/5D HB [пятак+шелк.]",
+        "year": "1999-2000"
+    },
+    "8312": {
+        "name": "TOYOTA PREVIA MINI-VAN [б/крепежа]",
+        "year": "2000- "
+    },
+    "8316": {
+        "name": "TOYOTA CELICA купе [пятак]",
+        "year": "1999- "
+    },
+    "8317": {
+        "name": "Toyota Yaris Verso = WS TP10 G",
+        "year": "1999- "
+    },
+    "8322": {
+        "name": "TOYOTA LEXUS RX300 (5D) [обогр.]",
+        "year": "1999-2003"
+    },
+    "8323": {
+        "name": "TOYOTA RAV-4 (3/5D)/CHERY TIGGO/SUV T11",
+        "year": "2006- "
+    },
+    "8326": {
+        "name": "TOYOTA LEXUS LS430 4D SED",
+        "year": "2001-2006"
+    },
+    "8327": {
+        "name": "TOYOTA LEXUS GS300/GS430 4D SED",
+        "year": "2000-2005"
+    },
+    "8332": {
+        "name": "TOYOTA LEXUS GS300/GS400 4D SED",
+        "year": "1998-2000"
+    },
+    "8333": {
+        "name": "TOYOTA AVENSIS VERSO/PICNIC  5D мини-вэн",
+        "year": "2001- "
+    },
+    "8339": {
+        "name": "TOYOTA CAMRY 4D SED (крепеж под ДД + VIN)",
+        "year": "2001-2005"
+    },
+    "8340": {
+        "name": "TOYOTA COROLLA 3D/5D HB, 4D SED, 5D унив. [шелк. + пятак]",
+        "year": "2002-2006"
+    },
+    "8341": {
+        "name": "TOYOTA LANDCRUISER J120 PRADO 3/5D (окно под VIN)",
+        "year": "2003- "
+    },
+    "8342": {
+        "name": "TOYOTA COROLLA VERSO/SPACIO",
+        "year": "2002-2004"
+    },
+    "8346": {
+        "name": "TOYOTA AVENSIS 4D SED, 5D LIFTBACK, унив. (Hz)",
+        "year": "2003-2006"
+    },
+    "8354": {
+        "name": "TOYOTA LEXUS RX300/330/350/400/430/450 (5D) [обогр.]",
+        "year": "2003-2008"
+    },
+    "8356": {
+        "name": "TOYOTA COROLLA VERSO MPV 04-",
+        "year": "2004- "
+    },
+    "8362": {
+        "name": "TOYOTA LEXUS GS300/GS350/GS430 4D SED (ДД)",
+        "year": "2005- "
+    },
+    "8367": {
+        "name": "TOYOTA HI-LUX 2/4D PICKUP [пятак]",
+        "year": "2005- "
+    },
+    "8370": {
+        "name": "TOYOTA YARIS 3/5D HB [измен. пятак+крепеж]",
+        "year": "2006- "
+    },
+    "8371": {
+        "name": "TOYOTA LEXUS IS200/250/350 4D SED (акустич.+ДД+обогрев+VIN)",
+        "year": "2005- "
+    },
+    "8372": {
+        "name": "TOYOTA RAV-4 [Акустическое+VIN]",
+        "year": "2006- "
+    },
+    "8374": {
+        "name": "TOYOTA AURIS 3/5D HB (ДД)",
+        "year": "2007- "
+    },
+    "8376": {
+        "name": "TOYOTA COROLLA 4D SED (ДД)",
+        "year": "2007- "
+    },
+    "8377": {
+        "name": "TOYOTA CAMRY/AURION 4D SED (VIN+крепеж под ДД+пятак+молдинг)",
+        "year": "2006- "
+    },
+    "8378": {
+        "name": "TOYOTA LANDCRUISER 200 V8 (5D)/LEXUS LX570 [ДС+ДД+обогрев]",
+        "year": "2008- "
+    },
+    "8379": {
+        "name": "TOYOTA AVENSIS 4D SED, унив.",
+        "year": "2009- "
+    },
+    "8519": {
+        "name": "VOLKSWAGEN GOLF 3/5D HB/JETTA (2D),4D SED",
+        "year": "1982-1994"
+    },
+    "8522": {
+        "name": "VOLKSWAGEN LT VAN",
+        "year": "1975-1996"
+    },
+    "8526": {
+        "name": "AUDI 80/100/A4  направл. болт бок. стекла (большой)",
+        "year": "-"
+    },
+    "8527": {
+        "name": "VOLKSWAGEN BUS/TRANSPORTER III",
+        "year": "1979-1991"
+    },
+    "8529": {
+        "name": "VOLKSWAGEN PASSAT 3/5D HB,унив./SANTANA 4D SED",
+        "year": "1980-1985"
+    },
+    "8532": {
+        "name": "AUDI 100/200 4D SED, AVANT (унив.) [овальн. пятак + шелк.]",
+        "year": "1982-1987"
+    },
+    "8533": {
+        "name": "VOLKSWAGEN GOLF 3/5D HB/JETTA (2D),4D SED",
+        "year": "1983-1987"
+    },
+    "8534": {
+        "name": "AUDI 80/90/B4 4D SED, AVANT/S2 (унив.) [кругл. пятак+шелк.]",
+        "year": "1987-1991"
+    },
+    "8535": {
+        "name": "VOLKSWAGEN PASSAT B3, B4 4D SED,унив. [б/пятака и молд.]",
+        "year": "1987-1992"
+    },
+    "8537": {
+        "name": "VOLKSWAGEN BUS/TRANSPORTER T4/CARAVELLE [пятак+шелк.]",
+        "year": "1990-2003"
+    },
+    "8538": {
+        "name": "VOLKSWAGEN CORRADO купе",
+        "year": "1988-1995"
+    },
+    "8539": {
+        "name": "AUDI 80/90/S2 купе [шелк.]",
+        "year": "1987-1995"
+    },
+    "8540": {
+        "name": "AUDI 100/A6 4D SED, AVANT (унив.) [пятак + шелк.]",
+        "year": "1991-1994"
+    },
+    "8541": {
+        "name": "VOLKSWAGEN GOLF A3 3/5HB,VARIANT(унив.)/VENTO 4D SED (Пятак 3см)",
+        "year": "1991-1994"
+    },
+    "8542": {
+        "name": "AUDI 80 CABRIO [пятак + шелк.]",
+        "year": "1991- "
+    },
+    "8545": {
+        "name": "VOLKSWAGEN POLO 3/5D HB",
+        "year": "1994-1999"
+    },
+    "8546": {
+        "name": "AUDI A8/S8 4D SED [пятак+шелк.]",
+        "year": "1994-1999"
+    },
+    "8547": {
+        "name": "AUDI A4/S4 4D SED, AVANT (унив.) [пятак+шелк.+окно под VIN]",
+        "year": "1994-2001"
+    },
+    "8548": {
+        "name": "VOLKSWAGEN SHARAN/ FORD GALAXY MINI-VAN [пятак+окно под VIN]",
+        "year": "1995-2006"
+    },
+    "8549": {
+        "name": "VOLKSWAGEN POLO CLASSIC 4D SED/VARIANT (унив.)",
+        "year": "1996-1999"
+    },
+    "8552": {
+        "name": "VOLKSWAGEN LT 28-35 с 96 г. (НЕ = MERCEDES SPRINTER)",
+        "year": "1996- "
+    },
+    "8554": {
+        "name": "AUDI A3 3/5D HB [пятак+шелк.+окно под VIN+крепеж]",
+        "year": "1996-2003"
+    },
+    "8556": {
+        "name": "VOLKSWAGEN PASSAT B5 4D SED,унив. [пятак+креп.ДД+молд.+VIN]",
+        "year": "2002-2008"
+    },
+    "8557": {
+        "name": "AUDI A6 4D SED",
+        "year": "1997-2002"
+    },
+    "8558": {
+        "name": "VOLKSWAGEN GOLF A4 3/5D HB/BORA 4D SED,унив[пят+креп.ДД+молд+VIN",
+        "year": "1997-2005"
+    },
+    "8559": {
+        "name": "\"VOLKSWAGEN NEW BEETLE (\"\"Жук\"\") (ДД)\"",
+        "year": "1997-2003"
+    },
+    "8561": {
+        "name": "AUDI TT купе",
+        "year": "1998-2000"
+    },
+    "8562": {
+        "name": "AUDI A2 5D HB [кассета]",
+        "year": "2000- "
+    },
+    "8565": {
+        "name": "AUDI A6 AVANT (унив.) [кассета+шелк.]",
+        "year": "1997-2002"
+    },
+    "8566": {
+        "name": "AUDI A6 (V8) 4D SED",
+        "year": "1999-2002"
+    },
+    "8568": {
+        "name": "VOLKSWAGEN GOLF A5 3/5D HB (пятак 125мм от края)",
+        "year": "2003-2006"
+    },
+    "8569": {
+        "name": "AUDI A8,A8L/S8 4D SED [ вырез]",
+        "year": "1999-2002"
+    },
+    "8570": {
+        "name": "VOLKSWAGEN POLO 3/5D HB",
+        "year": "1999-2001"
+    },
+    "8572": {
+        "name": "AUDI A4 4D SED, AVANT (унив.) [окно под VIN]",
+        "year": "2001-2004"
+    },
+    "8573": {
+        "name": "VOLKSWAGEN POLO 3/5D HB, 4D SED (ДД)",
+        "year": "2001-2004"
+    },
+    "8576": {
+        "name": "VOLKSWAGEN TOUAREG 5D/PORSCHE CAYENNE",
+        "year": "2002- "
+    },
+    "8577": {
+        "name": "VOLKSWAGEN TOURAN MPV",
+        "year": "2003-2007"
+    },
+    "8578": {
+        "name": "AUDI A8 new 4D SED",
+        "year": "2002-2004"
+    },
+    "8579": {
+        "name": "VOLKSWAGEN MULTIVAN / TRANSPORTER T5 [ант]",
+        "year": "2003- "
+    },
+    "8580": {
+        "name": "AUDI A3 3/5D HB [ДД+VIN]",
+        "year": "2003- "
+    },
+    "8581": {
+        "name": "VOLKSWAGEN CADDY (VIN+ант.+молд.)",
+        "year": "2004- "
+    },
+    "8582": {
+        "name": "AUDI A6 4D SED/унив. [VIN+шелк.+пятак+ДД]",
+        "year": "2004- "
+    },
+    "8583": {
+        "name": "VOLKSWAGEN GOLF PLUS MONOSPACE",
+        "year": "2005- "
+    },
+    "8584": {
+        "name": "VOLKSWAGEN PASSAT B6 4D SED[обогрев+ДД]",
+        "year": "2005- "
+    },
+    "8585": {
+        "name": "VOLKSWAGEN FOX/LUPO 3D HB (антенна)",
+        "year": "2005- "
+    },
+    "8586": {
+        "name": "VOLKSWAGEN JETTA 4D SED/GOLF A5 унив. [молд.]",
+        "year": "2007- "
+    },
+    "8588": {
+        "name": "AUDI Q7 [молд.+ДД+VIN]",
+        "year": "2006- "
+    },
+    "8589": {
+        "name": "AUDI A4 4D SED, AVANT (унив.) ",
+        "year": "2007- "
+    },
+    "8595": {
+        "name": "VOLKSWAGEN TIGUAN (ДД)",
+        "year": "2007- "
+    },
+    "8596": {
+        "name": "AUDI Q5",
+        "year": "2008- "
+    },
+    "8598": {
+        "name": "VW PASSAT CC 4D купе (ДД)",
+        "year": "2008- "
+    },
+    "8807": {
+        "name": "VOLVO 340/360 4D SED/343 3D HB/345 5D HB",
+        "year": "1976-1991"
+    },
+    "8810": {
+        "name": "VOLVO 240/265 [б/шелк.]",
+        "year": "1974-1993"
+    },
+    "8812": {
+        "name": "VOLVO 740/760 (1-88) [шелк.] - подх. WS1707GB",
+        "year": "1982-1999"
+    },
+    "8813": {
+        "name": "VOLVO F10-12-16 [2262*800]",
+        "year": "1984-1993"
+    },
+    "8814": {
+        "name": "VOLVO FL7/10 толщ. 5,7 MM.",
+        "year": "1985-1992"
+    },
+    "8816": {
+        "name": "VOLVO FL4,6,FS10 [1993*810]",
+        "year": "1985- "
+    },
+    "8818": {
+        "name": "VOLVO 760/960/S90 4D SED, унив.",
+        "year": "1987-1999"
+    },
+    "8819": {
+        "name": "VOLVO 480 ES купе",
+        "year": "1986-1995"
+    },
+    "8820": {
+        "name": "VOLVO 460 4D SED/440 5D HB [пятак+шелк.+окно под VIN]",
+        "year": "1989-1996"
+    },
+    "8821": {
+        "name": "VOLVO 940 4D SED",
+        "year": "1991-1998"
+    },
+    "8822": {
+        "name": "VOLVO 850 4D SED, унив. [шелк.]",
+        "year": "1992-2000"
+    },
+    "8823": {
+        "name": "VOLVO FH12-16",
+        "year": "1993- "
+    },
+    "8824": {
+        "name": "VOLVO S40 4D SED/V40 унив. [шелк.+пятак+VIN+1 вид Air Bag]",
+        "year": "1996-2003"
+    },
+    "8826": {
+        "name": "VOLVO C70 купе/cabrio",
+        "year": "1996-2006"
+    },
+    "8827": {
+        "name": "VOLVO S70 4D SED/V70 унив.",
+        "year": "1997-2000"
+    },
+    "8828": {
+        "name": "VOLVO S80 4D SED [молдинг]",
+        "year": "1998-2006"
+    },
+    "8829": {
+        "name": "VOLVO S60 4D SED/V70 унив. /XC70 CROSS COUNTRY унив.",
+        "year": "2000- "
+    },
+    "8831": {
+        "name": "VOLVO XC90 5D",
+        "year": "2002- "
+    },
+    "8832": {
+        "name": "VOLVO S40 SED/V50 унив. [ДД+пятак+шелк./зерк.+VIN+молд.]",
+        "year": "2003- "
+    },
+    "8836": {
+        "name": "VOLVO S80 4D SED/V70 2007-/XC70 2007-[VIN+молдинг]",
+        "year": "2006- "
+    },
+    "9208": {
+        "name": "POLONEZ  ATU 4D SED",
+        "year": "1979- "
+    },
+    "9320": {
+        "name": "CHRYSLER VOYAGER/GRAND VOYAGER/TOWN&COUNTRY/DODGE CARAVAN",
+        "year": "1996-2000"
+    },
+    "9336": {
+        "name": "JEEP WRANGLER / TJ (2D)",
+        "year": "1997-2006"
+    }
+}
